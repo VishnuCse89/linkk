@@ -1,0 +1,16 @@
+.bg{
+    background-image:url("assert/buc.avif");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    backface-visibility: unset;
+    
+}
+.p{
+    font-size: 50px;
+}
+
+.bug{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
